@@ -3,4 +3,4 @@ This repository contains my own implementations, in Python, of a famous online m
 
 To view the notebooks:
 1. Go to the Jupyter Noteboks online viewer: https://nbviewer.jupyter.org/ 
-2. Paste the link to the ipynb.
+2. Paste the github link to the ipynb.
